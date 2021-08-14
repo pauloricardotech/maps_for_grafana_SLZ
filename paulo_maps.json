@@ -26,12 +26,12 @@
   {
     "key" : "LINK NET - CLINICA DA FAMILIA",
     "name" : "CLINICA DA FAMILIA_TROPICAL",
-    "latitude" : -2.5016646848932265,
-    "longitude" : -44.288258653761204
+    "latitude" : -2.511973351765285,
+    "longitude" : -44.30392638242608
   },
   {
-    "key" : "MS",
-    "name" : "Mato Grosso do Sul",
+    "key" : "LAB",
+    "name" :"HOST DE TESTE",
     "latitude" : -20.4486,
     "longitude" : -54.6295
   },
